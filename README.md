@@ -134,6 +134,6 @@ torch.cuda.empty_cache()
 
 ## 🧑‍💻 Author
 
-**Varshini Vaddepalli**  
+**Prabhas Tummala**  
 
 ---
